@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "description": "File manager that looks and works like the Windows 11 File Explorer",
     "homepage": "https://github.com/misutesu-desu/swift-explorer",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/misutesu-desu/swift-explorer/releases/download/v0.4.0/SwiftExplorer.exe",
-            "hash": "14f929066228ff24efba7ebf67ed2829d98e9d207c5c524abc1df2d97f501239"
+            "url": "https://github.com/misutesu-desu/swift-explorer/releases/download/v0.4.1/SwiftExplorer.exe",
+            "hash": "4229b7f4a33fe55e02c9f7b2f16d70479427e005e3d8372e2906c0e6a7405534"
         }
     },
     "bin": [
